@@ -18,9 +18,7 @@
   <title>The XXX Program</title>
 </head>
 
-<header>
-  <h>Welcome to question converts into a random answer</h>
-</header>
+
 
 <body>
 
