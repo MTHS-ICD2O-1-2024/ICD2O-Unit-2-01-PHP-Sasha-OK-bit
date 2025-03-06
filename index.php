@@ -37,7 +37,7 @@
       </div>
       <div class="page-content-answer">CLICKIE CLICK.</div>
       <br />
-      <!--Simple Textfield for integers-->$_COOKIE
+      <!--Simple Textfield for integers-->
       <form action="answer.php" method="GET">
         <br />
         <!-- Raised button with ripple -->
@@ -50,10 +50,9 @@
       <div class="page-content-answer">
         <div id="answer"> </div>
       </div>
-      <img
-        src="./images/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870-ezgif.com-webp-to-jpg-converter.jpg"
-        alt="Hello World! image">
-      <a href="./index2.html">Other Calculations Page</a>
+      
+      
+      <a href="./index.php"></a>
     </main>
   </div>
 </body>
