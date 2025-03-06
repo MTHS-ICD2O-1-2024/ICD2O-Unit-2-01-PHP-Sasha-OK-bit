@@ -41,7 +41,7 @@
         ?>
       </div>
       <br />
-      <!--Simple Textfield for integers-->$_COOKIE
+      <!--Simple Textfield for integers-->
       <form action="answer.php" method="GET">
         <br />
         <!-- Raised button with ripple -->
