@@ -21,7 +21,6 @@
 
 
 <body>
-
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header"></div>
     <header class="mdl-layout__header">
@@ -31,7 +30,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right image">
-        <img src="./images/ICD2O-Unit-2-01-Sasha-OK-bit/images/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.jpg
+        <img src="./ICD2O-Unit-2-01-Sasha-OK-bit/images/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.webp">
       </div>
       <div class="page-content">
         <?php
